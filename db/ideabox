@@ -1,10 +1,11 @@
 ---
 ideas:
-- title: why can't i see you
-  description: show me something tastey
-- title: 'hello '
-  description: show it!!!NAH SON!~
-- title: Something Very cool
-  description: IT'S COLD
-- title: 'I do '
-  description: What I want!
+- title: good idea?
+  description: "bad idea.\r\n"
+  rank: 20
+- title: great idea
+  description: "poor idea\r\n"
+  rank: 8
+- title: cow
+  description: boy
+  rank: 9
